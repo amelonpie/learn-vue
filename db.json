@@ -1,0 +1,10 @@
+{
+  "sauces": [
+    {
+      "id": 1,
+      "category": "spicy",
+      "name": "Kung Pao Sauce",
+      "description": "A mix of sweet and spicy and savory, perfect to make quick and easy Chinese inspired dishes, like Kung Pao Chicken or Kung Pao Shrimp, or simple stir fries."
+    }
+  ]
+}
